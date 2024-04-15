@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-evenly;
     padding: 1em;
-    background-image: url(../images/contactimg.jpg);
+    background-image: url(../images1/contactimg.jpg);
    background-repeat: no-repeat;
    background:(76, 175, 80, 0.3)
   }
