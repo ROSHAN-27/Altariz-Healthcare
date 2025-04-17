@@ -10,6 +10,9 @@ header {
   display: flex;
   justify-content: space-between;
   background-color: #021d3f;
+  position: -webkit-sticky; /* For Safari */
+  position: sticky;
+  top: 0;
 }
 
 .logo {
@@ -30,7 +33,7 @@ h4 {
 
 
 .topnav a {
-  float: left;
+  float: right;
   display: block;
   color: #f2f2f2;
   text-align: center;
